@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_leftboat.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/leftboat.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.storrowdrive.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.storrowdrive.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_grass.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/grass.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.storrowdrive.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_brownchair.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/brownchair.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_rainbowchair.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/rainbowchair.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.storrowdrive.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_road.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/road.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_rhettnolegs.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/rhettnolegs.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_exploded.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/exploded.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_rightboat.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/rightboat.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_water.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/water.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_redchair.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/redchair.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.storrowdrive.app-pngs-27:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_tramright.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/tramright.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.storrowdrive.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.storrowdrive.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_tree.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/tree.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_playbutton.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/playbutton.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/raw_explosion.mp3.flat",
+        "source": "com.example.storrowdrive.app-main-33:/raw/explosion.mp3"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_button_pause.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/button_pause.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/raw_clubmusic.mp3.flat",
+        "source": "com.example.storrowdrive.app-main-33:/raw/clubmusic.mp3"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_exploding.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/exploding.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.storrowdrive.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_busright.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/busright.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.storrowdrive.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.storrowdrive.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_startup.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/startup.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_carright.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/carright.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.storrowdrive.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.storrowdrive.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_track.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/track.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/raw_hop.mp3.flat",
+        "source": "com.example.storrowdrive.app-main-33:/raw/hop.mp3"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_tramleft.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/tramleft.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_rhett.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/rhett.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_busleft.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/busleft.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.storrowdrive.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.storrowdrive.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.storrowdrive.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.storrowdrive.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/raw_train.mp3.flat",
+        "source": "com.example.storrowdrive.app-main-33:/raw/train.mp3"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_gamepaused.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/gamepaused.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_exploder.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/exploder.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_bluechair.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/bluechair.png"
+    },
+    {
+        "merged": "com.example.storrowdrive.app-merged_res-31:/drawable_carleft.png.flat",
+        "source": "com.example.storrowdrive.app-main-33:/drawable/carleft.png"
+    }
+]
